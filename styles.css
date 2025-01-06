@@ -1,2 +1,15 @@
+table {
+      border: 1px solid black;
+      /* border-collapse: collapse; */
+    }
 
-/* Your CSS Code here. */
+    td {
+      border: 1px solid black;
+      padding: 10px;
+    }
+
+    /* Style for the cell with black background */
+    .black-cell {
+      background-color: black;
+      color: white;
+    }
